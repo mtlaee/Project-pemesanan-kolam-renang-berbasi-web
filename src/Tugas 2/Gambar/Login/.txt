@@ -1,0 +1,4 @@
+fonts : poppins 
+
+kode warna 
+background : #2A5CA0

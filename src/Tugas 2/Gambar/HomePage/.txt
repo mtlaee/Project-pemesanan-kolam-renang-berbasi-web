@@ -1,0 +1,7 @@
+all font : poppins 
+
+kode warna 
+
+pool facilities : #8B8B8B (abu abu monyet)
+warna kotak di samping pool facilities : #386D8C
+footer : #1C2C36
